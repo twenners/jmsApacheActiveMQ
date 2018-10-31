@@ -1,0 +1,4 @@
+de\wennersonline\Application.class
+de\wennersonline\jms\Receiver.class
+de\wennersonline\jms\Sender.class
+de\wennersonline\jms\ConnectionHandler.class
