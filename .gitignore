@@ -14,3 +14,4 @@
 *.rar
 
 /target/
+/.settings/
